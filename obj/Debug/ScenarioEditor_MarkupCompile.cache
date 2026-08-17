@@ -1,0 +1,20 @@
+﻿ScenarioEditor
+
+
+winexe
+C#
+.cs
+D:\Matrix Games\scenario editor\PakfrontsTools-main - Claude\ScenarioEditor\obj\Debug\
+ScenarioEditor
+none
+false
+DEBUG;TRACE
+D:\Matrix Games\scenario editor\PakfrontsTools-main - Claude\ScenarioEditor\App.xaml
+18-1531439777
+
+391068797610
+21-921766705
+AddEventDialog.xaml;ApplyGameDBWindow.xaml;ApplyUnitLocsWindow.xaml;FormTypeDialog.xaml;GameDBModifierDialog.xaml;ScenarioGeneratorWindow.xaml;HelpWindow.xaml;NewScenarioWindow.xaml;OOBWindow.xaml;ScenarioPropertiesDialog.xaml;WeaponDialog.xaml;TimeDialog.xaml;RandomEventDialog.xaml;EventDialog.xaml;CommandDialog.xaml;FlagDialog.xaml;FormationDialog.xaml;MainWindow.xaml;
+
+False
+
